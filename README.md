@@ -12,6 +12,10 @@ python3 instagram_osint.py -u <username> -d
 
 
 to check the downloaded post: 
+ 
+go to the <username> directory > posts.
+
+example: 
 username/
 ├─ profile.json
 ├─ profile_pic.jpg
@@ -19,5 +23,4 @@ username/
    ├─ 1.jpg
    ├─ 1.json
    ├─ 2.jpg
-   └─ 2.json 
-go to the <username> directory > posts.
+   └─ 2.json
